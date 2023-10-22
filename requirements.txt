@@ -1,0 +1,8 @@
+
+# Use Databricks Connect compatible with Databricks Runtime 12.2 LTS (includes Apache Spark 3.3.2, Scala 2.12)
+databricks-connect==12.2.*
+pandas==1.4.2
+plotly==5.6.0
+requests==2.27.1
+json==2.0.9
+pyspark==3.3.2
