@@ -6,10 +6,12 @@ setup(
     url = 'https://github.com/aarnisi/databricks_cluster_optimization',
     packages=find_packages(),
     install_requires=[
-        'databricks'
+        'databricks-connect'
        ,'pandas'
-       ,'seaborn'
+       ,'plotly'
        ,'matplotlib'
        ,'requests'
+       ,'json'
+       ,'pyspark'
     ],
 )
