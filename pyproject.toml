@@ -2,7 +2,7 @@
 name = "dbclusters"
 version = "1.0.0"
 description = "Databricks cluster optimization code"
-authors = [{name = "A. Random Developer", email = "author@example.com" }]
+authors = [{name = "Aarni"}]
 readme = "README.md"
 requires-python = ">=3.7"
 
